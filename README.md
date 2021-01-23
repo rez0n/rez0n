@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm working on Upwork freelance projects, Linux systems engeneer, Docker and Ansible passionate. 
+I'm working on Upwork freelance projects, Linux systems engineer, Docker and Ansible passionate. 
 
 - 🔭 Working on Docker environments, Ansbile automation
 - 🤔 Creating CI/CD pipelines using Github Actions, Bitbucket Pipelines
