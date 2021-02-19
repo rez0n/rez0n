@@ -7,4 +7,4 @@ I'm working on Upwork freelance projects, Linux systems engineer, Docker and Ans
 - 🌱 Python development (Flask/Django)
 - ⚙️ Favourite tools: VSCode, Fork, Proxmox, DigitalOcean
 - 👯 Raspberry Pi fan
-- 📫 You can hire me on [Upwork](https://www.upwork.com/fl/dverbin)
+
